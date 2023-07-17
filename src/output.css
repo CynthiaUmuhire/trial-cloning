@@ -805,6 +805,18 @@ video {
   width: 4rem;
 }
 
+.w-\[1\] {
+  width: 1;
+}
+
+.w-\[1448\] {
+  width: 1448;
+}
+
+.w-\[500px\] {
+  width: 500px;
+}
+
 .grid-flow-row {
   grid-auto-flow: row;
 }
